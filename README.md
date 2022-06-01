@@ -5,7 +5,7 @@ Hi, i'm [Adrian Morales](https://mcadrian11.github.io/PortfolioAdrian/), a passi
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
- ![](https://visitor-badge.glitch.me/badge?page_id=McAdrian11.McAdrian11)
+![](https://visitor-badge.glitch.me/badge?page_id=McAdrian11.McAdrian11)
 
 ---
 
@@ -21,7 +21,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ---
   
   <img align="right" alt="GIF" src="https://www.chipax.com/wp-content/uploads/2021/04/dev-1.gif" width="500" height="320" />
-<div style="display: inline_block"><br>
+ 
+<div align="center" style="display: inline_block">
+  <h3 align="center">🖥 Languages and Tools</h3>
   <img align="center" alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -34,10 +36,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <h3 align="center">📫 Contact Me</h3>
 <p align="center">
   <a href="mailto: mcadriann11@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="60" width="60">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="50" width="40">
   </a>
   <a href="https://www.linkedin.com/in/mcadrian11/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="60" width="60">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="50" width="40">
   </a>
 </p>
   
