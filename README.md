@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Adrian Morales Cuba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">Hi there, I'm Adrian Morales Cuba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"></h1>
   <br />
 
 Hi, i'm [Adrian Morales](https://mcadrian11.github.io/PortfolioAdrian/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
