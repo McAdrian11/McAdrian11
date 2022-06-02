@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Adrian Morales Cuba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   <br />
 
-Hi, i'm [Adrian Morales](https://mcadrian11.github.io/PortfolioAdrian/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Hi, I'm [Adrian Morales](https://mcadrian11.github.io/PortfolioAdrian/), a Peruvian student👨‍💻 at <a target="_blank" href="https://www.soyhenry.com/">#SoyHenry </a>. I am a self-taught Full Stack Web Developer. 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=McAdrian11.McAdrian11)
 
