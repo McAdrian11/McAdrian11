@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Adrian Morales Cuba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   <br />
 
-Hi, I'm [Adrian Morales](https://mcadrian11.github.io/PortfolioAdrian/), a Peruvian student👨‍💻 at <a target="_blank" href="https://www.soyhenry.com/">#SoyHenry </a>. I am a self-taught Full Stack Web Developer. 
+Hi, I'm [Adrian Morales](https://mcadrian11.github.io/PortfolioAdrian/), a Peruvian student👨‍💻. I am a self-taught Full Stack Web Developer. 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=McAdrian11.McAdrian11)
 
